@@ -1,0 +1,10 @@
+{
+    entry =     {
+        bundle = YoYoNotifyYoSettings;
+        cell = PSLinkCell;
+        detail = YoYoNotifyYoSettingsListController;
+        icon = "YoYoNotifyYoSettings.png";
+        isController = 1;
+        label = YoYoNotifyYoSettings;
+    };
+}

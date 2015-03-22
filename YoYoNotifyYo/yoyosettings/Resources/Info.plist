@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>NotifierSettings</string>
+	<string>YoYoNotifyYoSettings</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.AndyIbanez.NotifierSettings</string>
+	<string>com.mrgray.YoYoNotifyYoSettings</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -21,8 +21,8 @@
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>MinimumOSVersion</key>
-	<string>3.0</string>
+	<string>6.0</string>
 	<key>NSPrincipalClass</key>
-	<string>NotifierSettingsListController</string>
+	<string>YoYoNotifyYoSettingsListController</string>
 </dict>
 </plist>

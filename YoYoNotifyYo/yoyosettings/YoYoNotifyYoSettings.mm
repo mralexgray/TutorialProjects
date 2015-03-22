@@ -6,14 +6,14 @@
 -(id)loadSpecifiersFromPlistName:(id)name target:(id)target;
 @end
 
-@interface NotifierSettingsListController: PSListController {
+@interface YoYoNotifyYoSettingsListController: PSListController {
 }
 @end
 
-@implementation NotifierSettingsListController
+@implementation YoYoNotifyYoSettingsListController
 - (id)specifiers {
 	if(_specifiers == nil) {
-		_specifiers = [[self loadSpecifiersFromPlistName:@"NotifierSettings" target:self] retain];
+		_specifiers = [[self loadSpecifiersFromPlistName:@"YoYoNotifyYoSettings" target:self] retain];
 	}
 	return _specifiers;
 }

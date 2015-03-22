@@ -8,7 +8,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Notifier Settings.</string>
+			<string>YoYoNotifyYo Settings.</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -16,7 +16,7 @@
 			<key>default</key>
 			<true/>
 			<key>defaults</key>
-			<string>com.AndyIbanez.NotifierSettings</string>
+			<string>com.mrgray.YoYoNotifyYoSettings</string>
 			<key>key</key>
 			<string>alertLaunch</string>
 			<key>label</key>
@@ -24,6 +24,6 @@
 		</dict>
 	</array>
 	<key>title</key>
-	<string>NotifierSettings</string>
+	<string>YoYoNotifyYoSettings</string>
 </dict>
 </plist>

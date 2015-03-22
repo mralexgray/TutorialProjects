@@ -1,0 +1,10 @@
+Package: com.mrgray.YoYoNotifyYo
+Name: YoYoNotifyYo
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Yo yo yo!
+Maintainer: Alex Gray
+Author: ALex Gray
+Section: Tweaks
+Version: 0.0.1-9
+Installed-Size: 152
